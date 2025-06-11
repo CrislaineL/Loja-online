@@ -1,3 +1,4 @@
+// external js: flickity.pkgd.js
 const dadosFront = "assets/produtos.json";
 let produtos = [];
 
